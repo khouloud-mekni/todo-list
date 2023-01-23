@@ -1,0 +1,15 @@
+.taskPart{
+   display: flex;
+   justify-content: center;
+   margin: 20px;
+}
+Button{
+    margin: 10px !important;
+    width: 150px;
+    height: 40px;
+}
+.inputedit{
+    border: 1px solid black;
+    width: 90%;
+    height: 50px;
+}
